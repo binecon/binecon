@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binecon
 - 👀 I’m interested in Front-end Web Development & UX
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on discord, collabl, and endorphins <3
+- 🌱 I’m currently learning HTML, CSS and basic JavaScript
+- 💞️ I’m looking to collaborate on discord, collabl, and on endorphins <3
 - 📫 How to reach me pls text me on discord, uname = bine (bee symbol)
 
 <!---
