@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @binecon
-- 👀 I’m interested in Front-end Web Development & UX
-- 🌱 I’m currently learning HTML, CSS and basic JavaScript
-- 💞️ I’m looking to collaborate on discord, collabl, and on endorphins <3
-- 📫 How to reach me pls text me on discord, uname = bine (bee symbol)
+- 👀 I’m interested in Front-end Web Development & UX/UI
+- 🌱 I’m currently learning Next.js, in particular, the static generation of web pages as I'd like to take advantage of the power-saving aspect of CDN.
+- 💞️ I’m looking to collaborate on endorphins, with sympathetic people <3
+- 📫 You can reach me on discord, uname: bine
 
 <!---
 binecon/binecon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
