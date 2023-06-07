@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @binecon
 - 👀 I’m interested in Front-end Web Development & UX/UI
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently building a blog with Pelican
 - 💞️ I’m looking to collaborate on endorphins, with sympathetic people <3
 - 📫 You can reach me on discord, uname: bine
 
