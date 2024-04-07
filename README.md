@@ -2,7 +2,7 @@
 - 👀 i’m interested in ux/ui and front-end dev
 - 🌱 i'm currently building a personal website with 11ty
 - 💞️ i’m looking to collaborate on endorphins, with sympathetic people <3
-- 📫 you can reach me on discord, uname: bine
+- 📫 you can reach me on discord, uname: bine (bzzzz)
 
 <!---
 binecon/binecon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
